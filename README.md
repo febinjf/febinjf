@@ -1,4 +1,4 @@
-# Hi, I'm Febin Jose 👋
+# Hi, I'm Febin👋
 
 ## Front-End Developer | AI Enthusiast
 
